@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THis is a change on master
+=======
+test 1
+>>>>>>> feature/wordcounter
